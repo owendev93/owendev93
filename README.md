@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="./img.jpg" alt="https://github.com/owendev93">
-</p>
+</p> 
+🚀 Ingeniero en Informática desde 2017 con amplia experiencia en programación y desarrollo web, especializado en HTML, CSS, JavaScript y Python. Apasionado por la ingeniería de sistemas, con un enfoque en la optimización y automatización de procesos tecnológicos.
+Tengo un sólido conocimiento en el desarrollo de soluciones innovadoras, combinando habilidades técnicas con una visión estratégica para mejorar la eficiencia y escalabilidad de sistemas. Disfruto resolviendo desafíos complejos y aplicando las mejores prácticas en desarrollo de software. Siempre en constante aprendizaje, explorando nuevas tecnologías y tendencias para crear aplicaciones y plataformas funcionales, seguras y escalables.
 
-Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de software y la resolución de problemas tecnológicos. Me especializo en programación, dominando lenguajes como HTML, JavaScript, CSS y Python, y disfruto creando soluciones eficientes y funcionales. En este espacio encontrarás algunos de mis proyectos y colaboraciones, donde aplico mis conocimientos para desarrollar herramientas innovadoras. Siempre estoy buscando aprender, mejorar y colaborar en proyectos interesantes. 🚀 ¡Bienvenido/a a mi repositorio!
-
+ En este espacio encontrarás algunos de mis proyectos y colaboraciones, donde aplico mis conocimientos para desarrollar herramientas innovadoras. Siempre estoy buscando aprender, mejorar y colaborar en proyectos interesantes. 🚀 ¡Bienvenido/a a mi repositorio!
 
 # Lenguajes, Tecnologías y Herramientas:
 
@@ -14,7 +15,6 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,django,git,github,react,vite,html,javascript,css" />
   </a>
 </p>
-
 
 # Puedes encontrarme en mis redes sociales:
 
