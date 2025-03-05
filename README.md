@@ -9,6 +9,7 @@ Tengo un sólido conocimiento en el desarrollo de soluciones innovadoras, combin
 
  En este espacio encontrarás algunos de mis proyectos y colaboraciones, donde aplico mis conocimientos para desarrollar herramientas innovadoras. Siempre estoy buscando aprender, mejorar y colaborar en proyectos interesantes. 🚀 ¡Bienvenido/a a mi repositorio!
 </div></p>
+
 # Lenguajes, Tecnologías y Herramientas:
 
 <p align="center">
