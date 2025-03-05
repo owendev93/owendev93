@@ -3,11 +3,12 @@
 <p align="center">
   <img src="./img.jpg" alt="https://github.com/owendev93">
 </p> 
+<p><div class="text-justify">
 🚀 Ingeniero en Informática desde 2017 con amplia experiencia en programación y desarrollo web, especializado en HTML, CSS, JavaScript y Python. Apasionado por la ingeniería de sistemas, con un enfoque en la optimización y automatización de procesos tecnológicos.
 Tengo un sólido conocimiento en el desarrollo de soluciones innovadoras, combinando habilidades técnicas con una visión estratégica para mejorar la eficiencia y escalabilidad de sistemas. Disfruto resolviendo desafíos complejos y aplicando las mejores prácticas en desarrollo de software. Siempre en constante aprendizaje, explorando nuevas tecnologías y tendencias para crear aplicaciones y plataformas funcionales, seguras y escalables.
 
  En este espacio encontrarás algunos de mis proyectos y colaboraciones, donde aplico mis conocimientos para desarrollar herramientas innovadoras. Siempre estoy buscando aprender, mejorar y colaborar en proyectos interesantes. 🚀 ¡Bienvenido/a a mi repositorio!
-
+</div></p>
 # Lenguajes, Tecnologías y Herramientas:
 
 <p align="center">
