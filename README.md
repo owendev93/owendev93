@@ -4,7 +4,7 @@
   <img src="./BannerPersonalRepoGithub.png" alt="https://github.com/owendev93">
 </p> 
 <p><div class="text-justify">
-## 👋 Hola, soy Owen Puerta Sauto
+👋 Hola, soy Owen Puerta Sauto
 
 Ingeniero en Informática, graduado en 2017, con más de 8 años de experiencia en desarrollo de software, desarrollo web, ingeniería de sistemas y automatización de procesos tecnológicos.
 
