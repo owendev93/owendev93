@@ -1,7 +1,7 @@
 # !Hola, mi nombre es Owen Puerta Sauto 👋
 
 <p align="center">
-  <img src="./BannerPersonalRepoGithub.jpg" alt="https://github.com/owendev93">
+  <img src="./BannerPersonalRepoGithub.png" alt="https://github.com/owendev93">
 </p> 
 <p><div class="text-justify">
 🚀 Ingeniero en Informática desde 2017 con amplia experiencia en programación y desarrollo web, especializado en HTML, CSS, JavaScript y Python. Apasionado por la ingeniería de sistemas, con un enfoque en la optimización y automatización de procesos tecnológicos.
